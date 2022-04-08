@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Orby_Sprites.png-016899dfae4aaee9f298aa58b57952c2.stex"
+path="res://.import/Orby_Wall.png-5ebd239d2485277ba61f7a11ae83f6dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Character/Orby_Sprites.png"
-dest_files=[ "res://.import/Orby_Sprites.png-016899dfae4aaee9f298aa58b57952c2.stex" ]
+source_file="res://Assets/World/Orby_Wall.png"
+dest_files=[ "res://.import/Orby_Wall.png-5ebd239d2485277ba61f7a11ae83f6dd.stex" ]
 
 [params]
 

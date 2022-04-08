@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Orby_Sprites.png-016899dfae4aaee9f298aa58b57952c2.stex"
+path="res://.import/Orby_World_Sprites-export.png-649dbf2d4c6ac232de2fa4f354ac20d2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Character/Orby_Sprites.png"
-dest_files=[ "res://.import/Orby_Sprites.png-016899dfae4aaee9f298aa58b57952c2.stex" ]
+source_file="res://Assets/World/Orby_World_Sprites-export.png"
+dest_files=[ "res://.import/Orby_World_Sprites-export.png-649dbf2d4c6ac232de2fa4f354ac20d2.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=false
+detect_3d=true
 svg/scale=1.0
